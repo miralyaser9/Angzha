@@ -23,9 +23,19 @@ Role-based access control for managers and staff
 
 Track employee-client conversations
 
+Show most recent clients for quick access
+
 Supervise chats for quality control and compliance
 
 Access chat history and media for reference
+
+🔔 Notifications
+
+Real-time notifications for new messages and client interactions
+
+Ensures immediate response to important communications
+
+Supports better engagement and faster decision-making
 
 🛠 WhatsApp Functionalities
 
